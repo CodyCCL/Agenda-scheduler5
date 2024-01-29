@@ -32,7 +32,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Mock-Up
 ![image](https://github.com/CodyCCL/SVG-Logo-Maker10/assets/142187489/b9c0ea1f-1d81-4174-b0ee-b9c57f608850)
 
-## Link Source
+## Link to Walkthrough
+https://drive.google.com/file/d/1twIeD9jpfbD1V5rdZ4D-kQGaPUh8v6TH/view
 
 ## Note
 Challenge recieved assisted code from TA
